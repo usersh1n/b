@@ -1,6 +1,4 @@
 {
-  "allowed_ips": [
-    "143.20.37.172"
-  ],
+  "allowed_ips": [],
   "users": {}
 }
