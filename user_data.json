@@ -1,7 +1,5 @@
 {
-  "allowed_ips": [
-    "162.243.163.146"
-  ],
+  "allowed_ips": [],
   "users": {
     "shin": {
       "nomor": "6283846094195",
